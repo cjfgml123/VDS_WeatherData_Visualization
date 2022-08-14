@@ -1,4 +1,4 @@
-# VDS_WeatherData_Visualization
+# VDS_WeatherData_Visualization.
 - 각 지 자체의 VDS 데이터 포맷이 달라 전처리 과정이 다름.
 - 요일타입(평일, 주말, 국경일) ,날씨(강수량,적설량)에 따른 교통량 비교 시각화
 
